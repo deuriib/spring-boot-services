@@ -46,7 +46,7 @@ Replace `{service-name}` with the specific service you want to run.
 
 ### Events Service
 
-Rest API that allows users to retrieve information about events using PostgreSQl as data storage.
+Rest API that allows users to retrieve information about events using PostgreSQL as data storage.
 
 ### Registration Service
 
