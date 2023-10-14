@@ -30,15 +30,11 @@ Follow these steps to set up and run the project:
 
     ```bash
     cd {service-name}
-    ```
 
-4. Run the desired service:
-
-    ```bash
     ./mvnw spring-boot:build-image
     ```
 
-5. Run all the services with Docker Compose:
+4. Run all the services with Docker Compose:
 
     ```bash
     docker compose up -d
